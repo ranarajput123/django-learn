@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "path/to/your/virtualenv/bin/python",
+    "python.analysis.extraPaths": [
+        "../src/common/models"
+    ]
+}
